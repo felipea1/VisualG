@@ -1,0 +1,28 @@
+-----------------------------DIA 06/08/2024-----------------------------
+
+Algoritmo - sequencia finita de instruções para resolver um problema
+Automação - Minimizar a necessidade de intervenção humana em relação ao programa, assim acelerando o resultado
+
+programas de computador são algoritmos executados pelo o computador
+
+o computador é uma máquina que automatiza algoritmos computacionais de processamento de dados
+
+o que é preciso para se fazer um programa de computador?
+
+1 - linguagem de programação: regras léxicas e sintáticas para se escrever o programa
+
+2 - Uma IDE: software para editar e testar o programa
+
+3 - Um compilador: software para transformar o código fonte em código objeto
+
+4 - Um gerador de código ou Máquina virtual
+
+Léxica diz respeito as palavras isoladas
+
+cachorro certo / caxorro errado
+
+Sintática diz respeito a correção das sentenças
+
+o cachorro está com fome. / Certo
+
+A cachorro está com fome. / errado
