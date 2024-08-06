@@ -15,14 +15,22 @@ o que é preciso para se fazer um programa de computador?
 
 3 - Um compilador: software para transformar o código fonte em código objeto
 
-4 - Um gerador de código ou Máquina virtual
+4 - Um gerador de código ou Máquina virtual: o que permite o código objeto a ser executado.
 
 Léxica diz respeito as palavras isoladas
 
 cachorro certo / caxorro errado
 
-Sintática diz respeito a correção das sentenças
+Sintática = Grámatica. diz respeito a correção das sentenças
 
 o cachorro está com fome. / Certo
 
 A cachorro está com fome. / errado
+
+IDE - ambiente integrado de desenvolvimento / conjunto de softwares utilizados para a construção de programas
+
+funcionalidades: ediição de código fonte, depuração e testes, construção de modelos
+
+código fonte é aquele escrito pelo o programador em linguagem de programação
+
+compilação é o processo que transforma o código fonte em código objeto, que por sua vez irá passar pelo o gerador de código: construção (build)
