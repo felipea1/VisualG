@@ -33,4 +33,97 @@ funcionalidades: ediição de código fonte, depuração e testes, construção 
 
 código fonte é aquele escrito pelo o programador em linguagem de programação
 
-compilação é o processo que transforma o código fonte em código objeto, que por sua vez irá passar pelo o gerador de código: construção (build)
+compilação é o processo que transforma o código fonte em código objeto, que por sua vez irá passar pelo o gerador de código: construção (build) 
+
+-----------------------------DIA 07/08/2024-----------------------------
+
+A sintaxe do "portugol" varia um pouco de autor para autor (dialetos)
+
+Expressões aritméticas = expressão -> resultado -> valor númerico
+
+operadores aritméticos do VisualG
++ adição
+- subtração
+* multiplicação
+/ divisão
+\ divisão inteira
+% ou mod resto da divisão inteiro
+^ potenciação (real)
+
+precedência:
+1 lugar: ^
+2 Lugar: * / \ %
+3 lugar: + -
+
+exemplos:
+
+2 * 6 / 3 resultado = 4
+
+3 + 2 * 4 resultado = 11
+
+(3 + 2) * 4 resultado = 20
+
+2 * 3 ^ 4 resultado = 162
+
+60 / (3 + 2) * 4 resultado = 48 // quando se tem a mesma precedência que é o caso da multiplicação e divisão a conta será da esquerda para a direita, assim priorizando a divisão nesse caso. 
+
+60 / ((3 + 2) * 4) resultado = 3
+
+operador mod exemplos
+
+14%3 Resultado = 2
+
+19%5 Resultado = 4 
+
+Variavéis e tipos básicos em VisualG
+
+um programa de computador lida com dados, e esses dados são armazenados em Variavéis
+
+em programação uma variável é uma porção de memória (RAM) utilizada para armazenar dados durante a execução dos programas.
+
+declaração de Variavéis
+
+sintaxe:
+
+    <nome> : <tipo>
+
+exemplos:
+
+    idade : inteiro 
+    altura : real
+    logradouro : caractere 
+
+uma variável possui:
+nome (ou indentificador)
+tipo
+valor
+endereço 
+
+tipos básicos de dados em VisualG
+inteiro - número inteiro 
+real - número com ponto flutuante
+caractere - texto 
+logico - valor verdade 
+
+Nomes de variavéis 
+
+não pode começar com dígito: use uma letra ou _ (underscore)
+não pode ter espaço em branco 
+não usar acentos ou til 
+sugestão: Use o padrão "camel case" 
+
+as três operações básicas de programação 
+
+entrada de dados (teclado) - processamento de dados (processador) - saída de dados (monitor)
+
+entrada de dados 
+é quando o usuáro informa dados para o programa que o mesmo será armazenado em variavéis 
+essa operação também é chamada de leitura - "o programa está lendo dados."
+
+processamento de dados
+é quando o programa realiza cálculos 
+O processamento de dados se dá por um comando chamado ATRIBUIÇÃO / media <- (x + y) / 2.0 
+
+Saída de dados 
+é quando o programa informa dados para o usuário 
+também é chamado de ESCRITA: "O programa está escrevendo dados".
