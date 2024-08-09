@@ -127,3 +127,5 @@ O processamento de dados se dá por um comando chamado ATRIBUIÇÃO / media <- (
 Saída de dados 
 é quando o programa informa dados para o usuário 
 também é chamado de ESCRITA: "O programa está escrevendo dados".
+
+"Olá mundo"
